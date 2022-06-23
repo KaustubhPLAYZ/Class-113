@@ -1,1 +1,1 @@
-# Class-113
+# Image Recognition app
